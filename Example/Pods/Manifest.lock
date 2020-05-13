@@ -1,0 +1,23 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - QRVideoEditor (0.1.3):
+    - MBProgressHUD
+
+DEPENDENCIES:
+  - QRVideoEditor (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  QRVideoEditor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  QRVideoEditor: 49811f0695ca9c176aba5591b4e02ffd552e9ddc
+
+PODFILE CHECKSUM: d38ee3dc215af340912ac50d8d7ce9123266c3e6
+
+COCOAPODS: 1.9.1
