@@ -21,10 +21,10 @@ s.description      = <<-DESC
 TODO: Add long description of the pod here.
 DESC
 
-s.homepage         = 'https://github.com/yangqingren/QRVideoEditor'
+s.homepage         = 'https://github.com/yangqingren1/QRVideoEditor'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { '杨庆人' => '564008993@qq.com' }
+s.author           = { '杨庆人' => '15521228691@163.com' }
 s.source           = { :git => 'https://github.com/yangqingren1/QRVideoEditor.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
